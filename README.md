@@ -1,4 +1,4 @@
-# Random-Generator-React-Native
+# Random-Generator-React-Native testing 1
 
 An intuitive and fun project that helps you understand a little bit about Expo Router and React Hooks (useState, useEffect) by showing you three ways of getting and displaying data.
 
